@@ -1,7 +1,7 @@
 # 語義分割專案 README
 
 ## 作品說明
-
+https://github.com/nigunosong88/efficientsam_gradio/blob/main/images/%E6%B8%AC%E8%A9%A6/%E5%88%9D%E5%A7%8B%E7%95%AB%E9%9D%A2.jpg
 
 ## 系統說明
 
