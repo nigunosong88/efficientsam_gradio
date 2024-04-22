@@ -14,13 +14,13 @@
 
 
 ## 使用技術
-# 主要庫版本
+### 主要庫版本
 
 - Gradio: 4.26.0
 - EfficientNet: 版本未指定
 - Segment Anything
 
-# 使用版本
+### 使用版本
 
 - Torch: 2.0.0+cu117
 - Torchvision: 0.15.0+cu117
