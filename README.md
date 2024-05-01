@@ -17,7 +17,7 @@
 ### 主要庫版本
 
 - Gradio: 4.26.0
-- EfficientNet: 版本未指定
+- EfficientSAM: 版本未指定
 - Segment Anything
 
 ### 使用版本
