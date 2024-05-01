@@ -28,8 +28,6 @@
 - matplotlib: 3.7.4 
 - pycocotools: 2.0.7 
 - opencv-python: 4.8.1.78
-- onnx: 1.15.0 
-- onnxruntime: 1.16.3 
 
 [# efficientsam_gradio
 ](https://github.com/doggy8088/Learn-Git-in-30-days/tree/master)
